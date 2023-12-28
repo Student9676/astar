@@ -1,5 +1,5 @@
 # astar
-A Python implementation of an A* Search Algorithm
+A Python implementation of an A* Search Algorithm with inspiration and help from Tech With Tim's video on Youtube (https://www.youtube.com/watch?v=JtiK0DOeI4A)
 
 How to run:
   1. Click a grid block to set a start point
